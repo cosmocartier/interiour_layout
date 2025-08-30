@@ -8,7 +8,7 @@ A sophisticated, modern website for Terrene - a high-end interior design and arc
 - **Frontend**: React 19 with modern hooks
 - **Animations**: GSAP (GreenSock) with ScrollTrigger
 - **Smooth Scrolling**: Lenis for buttery-smooth scroll animations
-- **View Transitions**: Next-view-transitions for seamless page transitions
+- **Smooth Navigation**: Custom navigation with Next.js App Router
 - **Text Animation**: Split-type for text splitting and animations
 - **Icons**: React Icons
 - **Package Manager**: pnpm
@@ -18,7 +18,7 @@ A sophisticated, modern website for Terrene - a high-end interior design and arc
 - **Premium Preloader**: Sophisticated loading animation with counter and brand reveal
 - **Smooth Animations**: GSAP-powered scroll-triggered animations throughout
 - **Responsive Design**: Mobile-optimized with different scroll settings
-- **View Transitions**: Seamless page transitions using Next.js view transitions
+- **Smooth Navigation**: Custom navigation transitions using Next.js App Router
 - **Interactive Navigation**: Animated menu with text splitting effects
 - **Image Galleries**: Multiple gallery layouts for showcasing work
 - **Statistics Display**: Animated counters and stats throughout the site
@@ -114,7 +114,7 @@ The application is fully responsive with:
 - Custom easing functions for smooth transitions
 - Text splitting and reveal animations
 - Parallax effects and smooth scrolling
-- View transitions between pages
+- Smooth navigation between pages
 
 ## 🚀 Deployment
 
