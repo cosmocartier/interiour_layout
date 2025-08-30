@@ -34,8 +34,8 @@ A sophisticated, modern website for Terrene - a high-end interior design and arc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Interiour-Layout.git
-cd Interiour-Layout
+git clone https://github.com/cosmocartier/interiour_layout.git
+cd interiour_layout
 ```
 
 2. Install dependencies:
@@ -57,7 +57,6 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-terrene/
 ├── src/
 │   ├── app/                    # Next.js App Router pages
 │   │   ├── page.js            # Homepage
@@ -116,6 +115,15 @@ The application is fully responsive with:
 - Text splitting and reveal animations
 - Parallax effects and smooth scrolling
 - View transitions between pages
+
+## 🚀 Deployment
+
+This project is ready for deployment on:
+- **Vercel** (recommended for Next.js)
+- **Netlify**
+- **Render**
+- **Railway**
+- Any platform that supports Node.js
 
 ## 📄 License
 
